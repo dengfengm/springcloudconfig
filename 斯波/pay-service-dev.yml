@@ -53,12 +53,3 @@ spring:
 mybatis:
    type-aliases-package: com.shop.electronic.payapi.entity
    mapper-locations: classpath:mapper/*.xml
-
-info:
-   version: $project.version$
-   artifactId: $project.artifactId$
-   name: "孟志军"
-   tel: "15135247658"
-   app: "electronic"
-   status: "major"  
-   company: "www.dengfeng.com"
