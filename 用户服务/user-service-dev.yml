@@ -1,7 +1,7 @@
 # 数据库连接串 & 密码
 mariadb:
   url: 'jdbc:mysql://localhost:3306/shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
-  password: '{cipher}f4fe17d56fd99ea4ff8977bec9747f7888e06da7b4483467f3801b59800eb7c7'
+  password: '{cipher}563a4c77f808000727574a1dea7ea34d448513e79be1161cdc852f481e696957'
 
 # 功能开关 - 开启/关闭注册功能
 userservice:
