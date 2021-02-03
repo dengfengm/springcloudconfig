@@ -1,0 +1,9 @@
+# 数据库连接串 & 密码
+mariadb:
+  url: 'jdbc:mysql://localhost:3306/zshop?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
+  password: '{cipher}563a4c77f808000727574a1dea7ea34d448513e79be1161cdc852f481e696957'
+
+# 功能开关 - 开启/关闭注册功能
+userservice:
+  registration:
+    disabled: true
